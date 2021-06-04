@@ -1,0 +1,27 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+For " USER  "
+Courier Number : 111111 or 111112
+User can see their courier status by their courier number. 
+
+
+For " ADMIN " login provide the given username and password
+username : admin
+Password : admin
+Admin can add, edit or remove branch or employee.
+
+
+
+For " Employee " login provide the given username and password
+Employee ID : employee
+Passoword : employee
+Employee can add, edit or remove courier and courier status.
+
+#THANK YOU 
+
+   			:  :  :  Database  :  :  :
+
+Install XAMPP Version: 7.4.2(Windows Version:  Home  64-bit)
+Create a new database name- "crc"
+import the file cms.sql from database folder in crc database
+
+
